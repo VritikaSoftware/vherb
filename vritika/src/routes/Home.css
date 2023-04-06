@@ -1,0 +1,9 @@
+.banner{
+    width: 100%;
+    height: 640px;
+    background-position: center;
+}
+
+.banner img{
+    background-size: cover;
+}
